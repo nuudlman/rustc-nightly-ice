@@ -1,0 +1,7 @@
+[package]
+name = "rust_nightly_ice_repro"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+linux-raw-sys = "0.6.5"
